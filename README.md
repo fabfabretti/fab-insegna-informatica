@@ -15,23 +15,23 @@ Raccolta di slide, esercizi e altri materiali che ho creato per il mio anno di i
  ## Programma affrontato
  Questa repo contiene tutto il materiale necessario per insegnare il programma ministeriale di Informatica presso un istituto tecnico economico/finanziario/turistico. Non ho fatto affidamento sul libro adottato dalla classe.
 
- Estremamente in breve, il programma richiede:
+ Estremamente in breve, il programma affronta:
  * **Teoria**: 
-  * 💻⚙ Introduzione alla materia, hardware
-  * 👨‍💻👩‍💻 Software e licenze
-  * 🌍🔒 Internet e sicurezza informatica
+   * 💻⚙ Introduzione alla materia, hardware
+   * 👨‍💻👩‍💻 Software e licenze
+   * 🌍🔒 Internet e sicurezza informatica
  * **Laboratorio**: 
-  * Windows 10, file system, navigazione online, Google Classroom
-  * Microsoft Word, Google Docs
-  * Microsoft Excel
+   * Windows 10, file system, navigazione online, Google Classroom
+   * Microsoft Word, Google Docs
+   * Microsoft Excel
  * **Educazione civica**: approfondimenti in itinere sulla *privacy*, approfondimento sul concetto di *enshittification*, approfondimento sulle fallacie argomentative.
 
- E' possibile visionare il programma completo nel file (Programmi/Programma svolto classi 1B-1F.docx)[https://github.com/fabfabretti/Fab-insegna-informatica/blob/main/Programma/Programma%20svolto%20classi%201B-1F.docx].
+ E' possibile visionare il programma completo nel file [Programmi/Programma svolto classi 1B-1F.docx](https://github.com/fabfabretti/Fab-insegna-informatica/blob/main/Programma/Programma%20svolto%20classi%201B-1F.docx).
 
 
  ## Cosa trovo in questa repo?
  Nelle varie cartelle si trovano:
- * **Slides di teoria**, con link a video, immagini, articoli. C'è molta enfasi sulla concretizzazione dei concetti e sugli esempi, nel disperato tentativo di rendere meno pallose le lezioni. (C'è anche la birra e Hatsune Miku)
+ * **Slides di teoria**, con link a video, immagini, articoli. C'è molta enfasi sulla concretizzazione dei concetti e sugli esempi, nel disperato tentativo di rendere meno pallose le lezioni. (C'è anche della birra e Hatsune Miku)
  * **Slides di laboratorio**, con indicazioni generali sui vari software affrontati
  * **Esercizi di laboratorio**, che comprendono sempre un file di testo con le richieste, una presentazione con screenshot e indicazioni passo passo su come svolgere l'esercizio, l'esercizio svolto e il file di partenza.
  * **Esercizi "bonus" di approfondimento**, che spingono ad usare creativamente software di intelligenza artificiale quale ChatGPT o PlaygroundAI.
