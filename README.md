@@ -11,6 +11,19 @@ Raccolta di slide, esercizi e altri materiali che ho creato per il mio anno di i
  1. 👨‍🏫👩‍🏫 **Per altri professori**: chiunque si trovi, come me, a insegnare a delle classi prime può liberamente usare il mio materiale per semplificarsi la vita. :)
  2. 👩‍🎓👨‍🎓 **Per altri studenti**: il materiale qui presente potrebbe essere usato per aiutarvi a capire meglio argomenti che vi sono particolarmente ostici, oppure potete usare gli esercizi con soluzione per avere più materiale su cui esercitarvi in vista delle verifiche.
 
+## Screenshots
+<div align = "center" style="color:blue;overflow: scroll;white-space: nowrap;">
+ <img width="30%" src="/Screenshots/1.png" alt="screenshot by me. CC BY-SA 4.0"/>
+ <img width="30%" src="/Screenshots/2..png" alt="screenshot by me. CC BY-SA 4.0"/>
+ <img width="30%" src="/Screenshots/3.png" alt="screenshot by me. CC BY-SA 4.0"/>
+ <img width="30%" src="/Screenshots/7.png" alt="screenshot by me. CC BY-SA 4.0"/>
+ <img width="30%" src="/Screenshots/8.png" alt="screenshot by me. CC BY-SA 4.0"/>
+ <img width="30%" src="/Screenshots/9.png" alt="screenshot by me. CC BY-SA 4.0"/>
+ <img width="30%" src="/Screenshots/4.png" alt="screenshot by me. CC BY-SA 4.0"/>
+ <img width="30%" src="/Screenshots/5.png" alt="screenshot by me. CC BY-SA 4.0"/>
+ <img width="30%" src="/Screenshots/6.png" alt="screenshot by me. CC BY-SA 4.0"/>
+</div> 
+
 
  ## Programma affrontato
  Questa repo contiene tutto il materiale necessario per insegnare il programma ministeriale di Informatica presso un istituto tecnico economico/finanziario/turistico. Non ho fatto affidamento sul libro adottato dalla classe.
